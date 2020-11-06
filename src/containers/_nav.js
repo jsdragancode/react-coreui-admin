@@ -15,7 +15,7 @@ export default [
   },
   {
     _tag: 'CSidebarNavItem',
-    name: 'Colors',
+    name: 'Drivers',
     to: '/theme/colors',
     icon: 'cil-drop',
   },
